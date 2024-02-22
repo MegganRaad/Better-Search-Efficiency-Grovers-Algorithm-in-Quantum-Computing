@@ -1,6 +1,9 @@
 # Better Search Efficiency: Grover’s Algorithm in Quantum Computing
 #### Written and edited by : Latin-American Computer Scientist Meggan Raad
 
+<img width="640" alt=" " src="https://github.com/megganpereyra/Better-Search-Efficiency-Grovers-Algorithm-in-Quantum-Computing/assets/61334990/0a88f422-78fc-4d43-bf75-3f3f336fef24">
+
+
 ## Introduction and Preliminaries
 This in-depth article aims to explore the potential factors that make Grover’s algorithm improve search efficiency in Quantum Computing. Discussions will consist of the origins of search algorithms in Quantum, which was proposed by Lov Grover in 1996. Additionally, the theoretical foundations in the algorithm that make up its ability to achieve a quadratic speedup for unstructured search problems in comparison to other classical algorithms. Along with certain approaches and implementations to test the algorithm in Julia and Python3. There will be a closing conclusion and reflection on real-world applications. This includes various industries such as cryptography, database searches, and optimization problems.
 > Key Words: speed-up, classical search, Qiskit, Unstructured Database, Julia, Python
